@@ -1,0 +1,868 @@
+{
+    "status": "OK",
+    "code": 200,
+    "locale": "en_US",
+    "seed": null,
+    "total": 20,
+    "data": [
+        {
+            "id": 1,
+            "name": "Veritatis in aspernatur qui.",
+            "description": "Illo laboriosam quo sapiente perspiciatis fugit. Consequatur repellendus asperiores in laboriosam vel. Sit officiis nostrum qui adipisci. Voluptas velit reiciendis earum similique.",
+            "ean": "0854885883148",
+            "upc": "657137460514",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Aut cumque quos sit ut est.",
+                    "description": "Rerum magnam assumenda voluptas fugit sit accusamus. Tempora exercitationem qui nihil. Quia aspernatur nam odio magnam totam. Et iure qui id saepe.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Et eaque non ut quaerat.",
+                    "description": "Ea et perferendis porro voluptas eos fuga. Incidunt ipsa nostrum quia pariatur necessitatibus. Nulla quis ut aut harum temporibus aut reiciendis.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Totam magni incidunt qui.",
+                    "description": "Praesentium saepe repellat commodi quia. Animi voluptatem autem suscipit qui veniam qui voluptatibus. Nam quis vitae voluptatum pariatur.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 28.57,
+            "taxes": 22,
+            "price": 34.86,
+            "categories": [
+                82,
+                83,
+                84,
+                85
+            ],
+            "tags": [
+                "nobis",
+                "corporis",
+                "debitis",
+                "non",
+                "ducimus",
+                "cupiditate",
+                "et",
+                "consequatur",
+                "corporis",
+                "animi"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Iusto doloribus voluptate et.",
+            "description": "Rerum et repudiandae magnam. Recusandae sed id omnis delectus praesentium accusamus. Est eius alias magni et.",
+            "ean": "8491857286242",
+            "upc": "016762665559",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Eaque dicta ad esse non.",
+                    "description": "Ex ipsa autem qui non ut quis inventore. Sint laudantium dolores autem laboriosam doloremque voluptatem. Nulla illum modi autem modi. Et totam et dolorem provident in non.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Tempore nihil quibusdam et.",
+                    "description": "Autem blanditiis quisquam ut omnis officia. Consequatur assumenda unde ea commodi. Itaque veniam facilis dolore soluta quis. Animi enim dolor molestiae et beatae recusandae.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Nulla dignissimos fuga sed.",
+                    "description": "In eum rem dignissimos voluptatem tempora. Sed amet optio ut. Et deserunt dicta magnam eos. Error tenetur laborum pariatur adipisci omnis porro sunt. Voluptas optio minima doloremque amet.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 55.38,
+            "taxes": 22,
+            "price": 67.56,
+            "categories": [
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89
+            ],
+            "tags": [
+                "illo",
+                "consequatur",
+                "aut",
+                "consectetur",
+                "distinctio",
+                "iste",
+                "fugiat",
+                "velit",
+                "enim"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Aut minus quo eum explicabo.",
+            "description": "Eius temporibus qui voluptate. Aut commodi voluptas blanditiis. Maiores itaque cupiditate sed qui eligendi.",
+            "ean": "6287795839358",
+            "upc": "654461341438",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Qui suscipit ut sunt vero.",
+                    "description": "Hic molestiae facilis autem tempore molestias. Reprehenderit molestiae quae iure ut. Nulla sit ad dignissimos alias tempore. Incidunt nesciunt iusto aut.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Et sed sed ab.",
+                    "description": "Ut id ipsum unde suscipit enim nulla. Repudiandae rerum distinctio aliquid tempore dolores. Necessitatibus deleniti enim suscipit.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Quam qui a rem unde sit.",
+                    "description": "Ad ipsum facilis qui cupiditate reiciendis tenetur. Et sunt qui sed aperiam et consequuntur recusandae sed.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 73.39,
+            "taxes": 22,
+            "price": 89.54,
+            "categories": [
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52
+            ],
+            "tags": [
+                "voluptas",
+                "eos",
+                "sunt",
+                "quo",
+                "minima",
+                "deserunt"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Ullam qui quod nisi sit amet.",
+            "description": "Iure iste officiis sint corporis est quia. Enim fugiat quia et quis. Repudiandae est dolores sit qui quo et. Tenetur dolores aliquam totam voluptatem earum.",
+            "ean": "1468739674531",
+            "upc": "990112548919",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Unde voluptates et eum.",
+                    "description": "Libero et deleniti ut voluptatem laboriosam nostrum eum. Quod sit repudiandae repudiandae possimus voluptas sequi.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Dolorem et rem maiores nam.",
+                    "description": "Dolor dolorum debitis voluptas est quam voluptatem incidunt. Qui voluptatum explicabo nesciunt ut optio maxime sed unde. Minima est officia et sed et velit. Omnis velit nobis animi rerum et ad.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Magni error quod molestiae.",
+                    "description": "Sint cupiditate quam earum aperiam perspiciatis hic quia. Eos quaerat ex corporis. Tempore aperiam at vitae velit.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 86.59,
+            "taxes": 22,
+            "price": 105.64,
+            "categories": [
+                58,
+                59,
+                60
+            ],
+            "tags": [
+                "neque",
+                "vitae",
+                "corrupti",
+                "est",
+                "qui",
+                "commodi"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Iure ab illo sed omnis.",
+            "description": "Iusto fuga voluptas sit est. Ut et architecto repudiandae velit quo veritatis veniam.",
+            "ean": "6652793906966",
+            "upc": "585550488660",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Eaque ut quasi quaerat et.",
+                    "description": "Consequuntur eum nesciunt et architecto ut quo aut ad. Est aut quo et quia dolores. Aut et in veniam natus.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Dolores eos nihil dolor qui.",
+                    "description": "Sint vel dolorem et nisi est ut. Et recusandae consequatur inventore alias. Culpa et dolor et architecto qui et ad.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Aliquid quam consequatur a.",
+                    "description": "Quo rerum ratione consequatur praesentium eum iusto eos voluptatem. Nisi qui nihil neque. Perferendis dolore labore voluptatum qui iure accusamus.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 28.22,
+            "taxes": 22,
+            "price": 34.43,
+            "categories": [
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "tags": [
+                "deleniti",
+                "accusantium",
+                "molestiae"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Et vel magni vel sed quasi.",
+            "description": "Debitis sint omnis esse recusandae quibusdam. Consectetur dignissimos dolor eius iure ex. Mollitia amet qui quidem harum. Sed maiores earum doloremque quo.",
+            "ean": "3813190046416",
+            "upc": "056890376995",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Consequatur qui et eum et et.",
+                    "description": "Corporis sapiente magnam est tenetur aspernatur deleniti. Culpa repellat molestiae in consequatur et. Magnam suscipit quis esse et qui.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Totam tempore et aliquid.",
+                    "description": "Magni qui ab labore molestiae. Vero debitis et iure et neque. Quis omnis ipsum sint deleniti iusto expedita.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Distinctio et qui sit quae.",
+                    "description": "Deserunt ipsa dicta ea non a voluptatem. Dolorem aut dolor et deleniti. Eum non veniam voluptatem. Dolores autem dolorem rerum.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 82.5,
+            "taxes": 22,
+            "price": 100.65,
+            "categories": [
+                56
+            ],
+            "tags": [
+                "eveniet",
+                "reiciendis",
+                "veritatis",
+                "ratione"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Eum nihil qui eum esse ipsam.",
+            "description": "Voluptates quisquam aut asperiores et commodi. Est labore ullam ut ea voluptas ut possimus. Illo qui et nihil iste aut exercitationem autem incidunt. Nostrum sapiente fuga iure labore.",
+            "ean": "3898656723773",
+            "upc": "470343514212",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Rerum culpa maiores est.",
+                    "description": "Consequatur officia alias nisi eum nisi. Eaque nam excepturi blanditiis quo. Quidem aliquid est atque nostrum nobis commodi omnis corrupti. Officiis magnam quaerat ut amet sed officia non.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Nemo dolorem est maxime.",
+                    "description": "Dicta placeat ea debitis dolorem optio eveniet. Nobis qui tempora numquam illum pariatur voluptate labore. Ipsa est alias voluptatem deserunt deleniti est est.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Inventore eaque quas soluta.",
+                    "description": "Quia occaecati repellat molestiae ipsam consequatur veritatis vel eaque. Officiis in dolor voluptatum. Natus dolores beatae consequatur dolores et modi voluptas. Cum iste blanditiis nam nostrum nemo.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 65.58,
+            "taxes": 22,
+            "price": 80.01,
+            "categories": [
+                80,
+                81,
+                82,
+                83
+            ],
+            "tags": [
+                "accusantium",
+                "nostrum",
+                "voluptates",
+                "voluptatum",
+                "praesentium",
+                "quia",
+                "ratione"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Blanditiis aut qui illum et.",
+            "description": "Minus quidem eum sit repellat autem. Sunt ipsa reiciendis non sint minus molestiae. Consectetur aut sunt alias sed.",
+            "ean": "7857519168690",
+            "upc": "495567522810",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Sit dolores tempora ea.",
+                    "description": "Quaerat unde a sed rerum iure. Quod repellat et occaecati rem aspernatur sint. Provident asperiores nostrum aut soluta quae. Dolorem voluptates consequatur eum est quaerat minima sed.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Debitis ut ea vel et.",
+                    "description": "Ipsum quidem saepe accusamus ducimus enim fuga consequatur. Reiciendis exercitationem minus molestiae sed error omnis. Nisi eum optio iusto voluptas qui praesentium doloremque.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Adipisci libero aliquid quas.",
+                    "description": "Officia ut vel tempore voluptatem dolores asperiores voluptas voluptatem. Quibusdam ab non aut quis saepe accusamus aut. Velit atque quis voluptatem. Vero eligendi et sed dolor quos facilis nostrum.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 74.93,
+            "taxes": 22,
+            "price": 91.41,
+            "categories": [
+                6,
+                7,
+                8,
+                9
+            ],
+            "tags": [
+                "velit",
+                "molestiae",
+                "molestias",
+                "omnis",
+                "vel",
+                "non",
+                "perferendis",
+                "nulla"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Ex rerum possimus ipsum.",
+            "description": "Delectus magni aut fugit. Pariatur et facere consectetur.",
+            "ean": "1534367851948",
+            "upc": "331051284897",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Dolorem iste et est.",
+                    "description": "Nulla dolorem laboriosam magni molestiae. Sunt a aliquam maiores porro ducimus. Laborum occaecati omnis beatae quidem dolores fuga rem. Magnam aut quis iste nam nihil.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Maxime ipsa cupiditate iure.",
+                    "description": "Ut alias voluptatem ab nam. Voluptatem quidem sed odit quis et. Neque quia ex qui quaerat quo rerum.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Officia provident eum error.",
+                    "description": "Voluptatem deleniti eligendi ut minima laudantium. Magni sint praesentium et maxime porro. Est doloremque qui voluptas alias culpa ut.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 77.46,
+            "taxes": 22,
+            "price": 94.5,
+            "categories": [
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42
+            ],
+            "tags": [
+                "dolores",
+                "incidunt",
+                "nulla",
+                "beatae",
+                "qui"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Et cumque repellat et.",
+            "description": "Facilis autem ut doloremque eos vitae consequatur qui. Corporis mollitia voluptas voluptatem sed unde assumenda. Id sed aut sed voluptatem dolore sed. Omnis et in dignissimos sit incidunt et.",
+            "ean": "0316893007379",
+            "upc": "128427341745",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Ut omnis deserunt enim non.",
+                    "description": "Modi doloremque provident ut deserunt maiores. Itaque quia ex eaque sit qui. Non ut magnam est. Molestiae nulla non aspernatur corrupti.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Sequi et rerum est est.",
+                    "description": "Minus dolore quo eius quo. Ab officia eaque provident necessitatibus eius vel. Animi ut dolor porro. Eius eveniet harum totam doloremque dolore rerum quo.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Neque ipsum magnam quod.",
+                    "description": "Distinctio et sit dolore atque. Excepturi iure commodi aspernatur. Velit inventore voluptatem impedit quibusdam assumenda.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 66.43,
+            "taxes": 22,
+            "price": 81.04,
+            "categories": [
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "tags": [
+                "repellat",
+                "veniam",
+                "placeat",
+                "dolore",
+                "maiores"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Sint cum sed ullam debitis.",
+            "description": "Deserunt asperiores autem eum. Nihil quidem facilis natus quisquam in aliquid. Illo ut odit et doloribus veniam.",
+            "ean": "6158951357002",
+            "upc": "190765751706",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Cum voluptatem ab quis quod.",
+                    "description": "Facilis non earum sint rerum rerum modi. Nam et temporibus voluptatem earum provident. Doloribus optio a ea ipsam dolores.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Fugit tenetur neque ipsa.",
+                    "description": "In atque numquam animi est. Et dolorem ullam aliquam enim voluptas. Exercitationem assumenda aut dignissimos sed libero ut corrupti.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Ea quo repellendus in.",
+                    "description": "Ullam voluptatem hic eius et. Et consequatur et quam autem aut ab. Quod quod quae debitis consequatur aliquid.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 45.84,
+            "taxes": 22,
+            "price": 55.92,
+            "categories": [
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74
+            ],
+            "tags": [
+                "aut",
+                "eveniet",
+                "enim",
+                "labore",
+                "eaque",
+                "deserunt"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Atque minus et sit velit.",
+            "description": "Eum molestias sed voluptatem tenetur reiciendis qui dolore. Voluptatibus nobis blanditiis maxime. Culpa voluptatem quo dolore laboriosam perferendis et quidem.",
+            "ean": "8094979475374",
+            "upc": "324734560732",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Quia voluptatem ipsum earum.",
+                    "description": "Est rem ab ad. Non a est rem sunt. Et aut delectus quis ea molestiae tempore non. Eius repudiandae quod est aliquid aspernatur dolores.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Ullam repudiandae eos eum ad.",
+                    "description": "Sed ipsum laudantium expedita eum quae. Ut quia fugiat amet consequatur. Mollitia quas fugiat vitae repellendus.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "A praesentium possimus error.",
+                    "description": "Sed alias eveniet rem minus mollitia reprehenderit. Maxime doloremque aliquam at et. Odio est ea quia sequi. Deserunt veniam aut qui.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 30.56,
+            "taxes": 22,
+            "price": 37.28,
+            "categories": [
+                80
+            ],
+            "tags": [
+                "et",
+                "et",
+                "rerum",
+                "nobis",
+                "explicabo",
+                "quasi",
+                "aliquam"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Sit est dicta sint pariatur.",
+            "description": "Id voluptatem aperiam voluptatibus. Voluptatem in ad non mollitia id. Nostrum animi ad consequuntur rerum nesciunt quas.",
+            "ean": "9690760293081",
+            "upc": "412727334016",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Sunt quae totam aut.",
+                    "description": "Rerum rerum iste ullam officiis magnam. Asperiores optio voluptatem voluptate ad.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Ab illo qui facere eos.",
+                    "description": "Quia inventore fugiat et in velit necessitatibus alias. Nostrum molestiae unde consectetur sit occaecati. Qui enim aspernatur omnis temporibus rerum quo debitis.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Ea libero ad et velit.",
+                    "description": "Aperiam ut possimus nostrum molestiae quidem eos nobis. Corrupti similique cumque sit rem. Sunt voluptatem similique sit. Laboriosam vitae occaecati sed tempora.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 34.37,
+            "taxes": 22,
+            "price": 41.93,
+            "categories": [
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33
+            ],
+            "tags": [
+                "temporibus",
+                "velit",
+                "omnis",
+                "saepe",
+                "quam",
+                "enim"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Qui distinctio sequi ea nemo.",
+            "description": "Occaecati repellendus aut quia voluptas. Consectetur pariatur est cum. Et odio natus et. Commodi ut impedit blanditiis et. Nesciunt doloribus impedit eveniet explicabo.",
+            "ean": "8025332384972",
+            "upc": "466637434210",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Eum modi autem ut.",
+                    "description": "Non quisquam eligendi sequi voluptatibus ut reprehenderit similique. Non possimus eaque dolor. Ex voluptatum harum nulla.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Ut est ea dolorem.",
+                    "description": "Repellendus omnis sed repellat vitae non sapiente. Non voluptatem at sapiente dolorem sit. Sint facere voluptates culpa et odio totam modi. Qui qui et ut quae.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Nulla eveniet id aut fugiat.",
+                    "description": "Ut soluta voluptates optio officia. Pariatur autem nesciunt enim est rerum. Odit fuga aut quis nesciunt. Et delectus nostrum voluptas.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 52.9,
+            "taxes": 22,
+            "price": 64.54,
+            "categories": [
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96
+            ],
+            "tags": [
+                "pariatur",
+                "est",
+                "nihil"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Rem ab autem quis et.",
+            "description": "Eos iusto sunt ex. Laudantium voluptate quia ut. Adipisci itaque omnis esse omnis.",
+            "ean": "7951925848266",
+            "upc": "276083260549",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Pariatur et nostrum sunt et.",
+                    "description": "Laborum est porro nostrum debitis perferendis et enim. Est quibusdam dolore ipsam aut. Praesentium blanditiis aliquam enim aut exercitationem dolores.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Et aut suscipit minima ipsa.",
+                    "description": "Illo fuga enim nihil nihil qui totam. Est ut animi sint a. Soluta ut dolor facilis quas veniam nemo cum.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Vitae similique modi aliquam.",
+                    "description": "Iusto sunt ex delectus possimus eos omnis. Veritatis et vel adipisci voluptatem ipsa ratione. Dolor qui aut voluptas qui. Molestiae mollitia perferendis aliquid dolor incidunt.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 29.13,
+            "taxes": 22,
+            "price": 35.54,
+            "categories": [
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79
+            ],
+            "tags": [
+                "eos",
+                "dignissimos",
+                "quibusdam"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Eaque earum quam enim nemo.",
+            "description": "Iusto ut blanditiis velit praesentium. Aliquid nobis id voluptatum qui qui. Ex a ea neque sunt.",
+            "ean": "2528823772693",
+            "upc": "886298625593",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Qui quia voluptatem sit.",
+                    "description": "Numquam nihil distinctio sunt dolore omnis. Reiciendis libero et incidunt assumenda. Rerum officia ipsum ut repellat ab.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Autem id saepe repellat.",
+                    "description": "Reprehenderit totam doloremque sit ab optio commodi harum. Impedit eligendi temporibus quod fugiat corrupti. Minima officia autem voluptatem iusto mollitia voluptatibus.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Quos iure rerum at.",
+                    "description": "Nihil ipsum id aut eum voluptatem praesentium quo. Velit odio enim et possimus debitis. Qui error amet laboriosam omnis totam. Incidunt quibusdam qui accusamus beatae.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 21.24,
+            "taxes": 22,
+            "price": 25.91,
+            "categories": [
+                60,
+                61,
+                62,
+                63,
+                64
+            ],
+            "tags": [
+                "unde",
+                "dolore",
+                "molestiae",
+                "minus"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Ipsum ipsa libero fugit.",
+            "description": "Quis repudiandae ipsam reprehenderit nisi doloribus quis. Sunt et tempore et ipsum omnis rerum provident. Velit laboriosam ab autem sit voluptates. Est dolorem est temporibus omnis.",
+            "ean": "2956429111767",
+            "upc": "418422184014",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Est libero porro neque.",
+                    "description": "Ut nihil explicabo voluptates molestiae dolores. Quos sequi vitae optio expedita sed sunt amet. Occaecati excepturi eligendi ea eveniet.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Ad quaerat aut sed rerum.",
+                    "description": "Illum unde quod voluptas dolorem natus. Eveniet ipsam recusandae nesciunt. Nihil similique et nemo ut quidem. Et architecto debitis magni exercitationem sunt modi.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "A reiciendis at nobis non.",
+                    "description": "Vel dolorem et deleniti sit maiores tenetur. Sit non beatae alias nisi aspernatur est aut eum. Unde fugit ducimus quia voluptates aut qui totam.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 84.09,
+            "taxes": 22,
+            "price": 102.59,
+            "categories": [
+                64,
+                65
+            ],
+            "tags": [
+                "et"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Voluptatum autem sint qui ut.",
+            "description": "Qui laudantium vitae eos placeat sunt. Dolor at vitae eveniet dolor. Quo accusantium nam magni omnis quae. Qui est autem eius corporis.",
+            "ean": "1122930491624",
+            "upc": "799669543006",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Nihil aut autem omnis.",
+                    "description": "Iure dolorum qui est qui magnam quae magnam. Omnis dolores vero provident id. Velit iusto rem qui distinctio veritatis dolorem. Id repellendus sint libero animi aliquam eveniet.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Cum et voluptas dicta.",
+                    "description": "Beatae omnis hic eligendi enim maxime. Consequatur laudantium minus atque maiores et repudiandae tempore. Dolores ut aperiam sit minus. Expedita commodi dolorum officia quisquam quaerat debitis.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Doloremque sed ut quis.",
+                    "description": "Delectus error voluptates iste autem reiciendis. Voluptate magni rerum dolorem. Corrupti facilis nobis ut id. Laboriosam et est quo modi architecto repellendus amet.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 36.65,
+            "taxes": 22,
+            "price": 44.71,
+            "categories": [
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82
+            ],
+            "tags": [
+                "eum",
+                "dignissimos",
+                "ut"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Et et autem debitis qui.",
+            "description": "Unde explicabo facilis ea. Assumenda possimus eligendi nesciunt ducimus. Et culpa ratione ea quo.",
+            "ean": "8950941206776",
+            "upc": "186801869110",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Voluptatem quo et ex esse et.",
+                    "description": "Dignissimos est voluptatibus quidem ut. Voluptatem vitae ad vero corporis. Et ea et repudiandae consectetur debitis. Est tenetur consequuntur beatae quo temporibus.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Et quia qui eos porro.",
+                    "description": "Amet eius quos et excepturi corporis. Corrupti deserunt voluptas qui qui. Quae sit et praesentium ut sed repellat.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Aliquam velit harum nam.",
+                    "description": "Voluptates aspernatur minima fuga eos distinctio et. Ut ea repellendus dolorem nulla dolores. Qui porro corporis commodi excepturi dolore.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 70.42,
+            "taxes": 22,
+            "price": 85.91,
+            "categories": [
+                77,
+                78,
+                79,
+                80,
+                81
+            ],
+            "tags": [
+                "beatae"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Qui qui saepe corrupti.",
+            "description": "Amet eos quis mollitia ut ex. Cum deserunt omnis enim sunt cumque.",
+            "ean": "2085868452718",
+            "upc": "485205866591",
+            "image": "http://placeimg.com/640/480/tech",
+            "images": [
+                {
+                    "title": "Id dolorem eius et.",
+                    "description": "Fugiat aliquid eum quos officia sit ea. Quo id qui itaque sapiente dolorem. Neque ex velit qui culpa quisquam debitis. Placeat vero sit adipisci aliquam.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Non expedita nostrum quidem.",
+                    "description": "Omnis eum et culpa alias quaerat ex. Porro nihil doloremque non inventore perspiciatis. Molestiae soluta omnis magnam mollitia laudantium repudiandae. Laborum placeat debitis cum.",
+                    "url": "https://picsum.photos/640/480"
+                },
+                {
+                    "title": "Eveniet optio cum ullam et.",
+                    "description": "Eos autem quam rerum rerum vel doloremque. Perferendis soluta itaque sint. Iure consequuntur assumenda eum eius voluptate cum sed. Reprehenderit laboriosam ex omnis iusto animi magni accusantium non.",
+                    "url": "https://picsum.photos/640/480"
+                }
+            ],
+            "net_price": 37.89,
+            "taxes": 22,
+            "price": 46.23,
+            "categories": [
+                44,
+                45,
+                46
+            ],
+            "tags": [
+                "facilis",
+                "recusandae",
+                "ad",
+                "commodi",
+                "itaque"
+            ]
+        }
+    ]
+}
