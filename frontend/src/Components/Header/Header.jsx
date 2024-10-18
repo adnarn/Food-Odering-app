@@ -8,14 +8,13 @@ import { toast } from 'react-toastify';
 import { onAuthStateChanged, signOut } from "firebase/auth";
 
 function Header() {
-  const [showMenu, setShowMenu] = useState(false);
+  const [showMenu, setShowMenu] = useState(false); // For toggling menu
   const [displayName, setDisplayName] = useState('');
   const navigate = useNavigate();
 
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (user) => {
       if (user) {
-        // Get user ID and display name (if available)
         const uid = user.uid;
         console.log(user);
         setDisplayName(user.displayName || 'User');
@@ -24,16 +23,15 @@ function Header() {
       }
     });
 
-    // Cleanup subscription when component unmounts
     return () => unsubscribe();
   }, []);
 
   const toggleMenu = () => {
-    setShowMenu(!showMenu);
+    setShowMenu(!showMenu); // Toggle menu state
   };
 
   const hideMenu = () => {
-    setShowMenu(false);
+    setShowMenu(false); // Hide menu
   };
 
   const logoutUser = () => {
@@ -58,9 +56,9 @@ function Header() {
         </div>
 
         {/* Menu links */}
-        <div className="menu-wrapper">
-          <Link to="/">Home</Link>
-          <Link to="#about">About</Link>
+        <div className={`menu-wrapper ${showMenu ? 'show' : ''}`}>
+          <Link to="/" onClick={hideMenu}>Home</Link>
+          <Link to="#about" onClick={hideMenu}>About</Link>
           <a href="#"><FaUserCircle /> Hi, {displayName}</a>
         </div>
 
@@ -68,13 +66,12 @@ function Header() {
         <div className="auth">
           <Link to="/cart">
             <FaShoppingCart />
-            {/* <p></p> */}
           </Link>
-          <Link to="/login">Log In</Link>
-          <Link to="/register">Sign Up</Link>
+          <Link to="/login" onClick={hideMenu}>Log In</Link>
+          <Link to="/register" onClick={hideMenu}>Sign Up</Link>
           <Link to="/" onClick={logoutUser}>Log Out</Link>
-          <div className="menu">
-            {/* <HiOutlineMenuAlt3 /> */}
+          <div className="menu-icon" onClick={toggleMenu}>
+            <HiOutlineMenuAlt3 />
           </div>
         </div>
       </div>
