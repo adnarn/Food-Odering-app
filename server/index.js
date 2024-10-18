@@ -25,6 +25,17 @@ app.post( '/add-product', (req, res) => {
        
   })
 
+// Add a route to fetch products
+app.get('/api/products', async (req, res) => {
+    try {
+        const products = await productModel.find();  // Fetch all products from the DB
+        res.json(products);
+    } catch (error) {
+        res.status(500).json({ message: 'Error fetching products' });
+    }
+});
+
+
 // Start the server
 app.listen(PORT, () => {
     console.log(`Hello, the server is running at port ${PORT}`);
