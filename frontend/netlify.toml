@@ -1,0 +1,9 @@
+[build]
+  publish = "dist"  # This is the folder where Vite or React builds your app
+  command = "npm run build"  # This is the build command for the app
+
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
